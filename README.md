@@ -25,7 +25,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/domswp/todo-cli-app-rust]
+git clone https://github.com/domswp/todo-cli-app-rust
 cd todo-cli
 ```
 
