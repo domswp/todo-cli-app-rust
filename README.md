@@ -3,16 +3,6 @@
 
 ---
 
-## 🚀 Features
-
-- Display todo list
-- Add new todo items
-- Remove todo items by number
-- Looping interactive menu
-- All handled via clean terminal interface
-
----
-
 ## 📦 Requirements
 
 - Rust (recommended via `rustup`)
@@ -37,21 +27,6 @@ cargo run
 
 ---
 
-## 💻 Example Screenshot
-
-```bash
-==== TODO LIST ====
-1. Belajar Rust
-2. Nonton video programming
-
-Menu:
-1. Tambah Todo
-2. Hapus Todo
-3. Keluar
-Pilih opsi (1-3):
-```
----
-
 ## ✍️ Code Highlights
 
    Built using Rust's standard I/O (`std::io`)
@@ -66,11 +41,11 @@ Pilih opsi (1-3):
 
 ## 🔮 Future Improvements
 
-   Save & load todos from file (`.txt` or `.json`)
+   Save & load todos from file (`.txt` or `.json`) [Done]
 
    Add categories or deadlines
 
-   Use `struct` and modules for better structure
+   Use `struct` and modules for better structure [Done]
 
    Cross-platform compiled binary
 
