@@ -5,3 +5,4 @@
 1|Revisi Monitoring nama tidak keluar|
 0|Pitching aplikasi ke PT NPG|28-05-2025
 0|Koneksikan aplikasi glide dengan user marketing|26-05-2025
+0|Belajar bikin server IRC|
