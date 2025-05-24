@@ -23,7 +23,13 @@ pub fn run() {
         match choice.as_str() {
             "1" => {
                 let name = input("Masukkan tugas baru:");
-                todos.push(Task::new(&name));
+                let deadline_input = input("Masukkan deadline (dd-mm-yyyy), atau kosongkan:");
+                let deadline = if deadline_input.trim().is_empty() {
+                    None
+                } else {
+                    Some(deadline_input)
+                };
+                todos.push(Task::new(&name, deadline));
                 save_todos(&todos);
             }
             "2" => {

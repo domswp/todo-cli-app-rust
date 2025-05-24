@@ -1,6 +1,7 @@
-0|Tugas S2 pak Sahnawi (PPT), dalam tahap review
-0|Aplikasi Grand Dharmahusda Lagoon, dalam tahap review
-1|Tugas S2 Pak sahnawi, kondisi market properti sebelum dan sesudah covid
-0|Marketing AI Chatbot Grand Dharmahusada Lagoon
-0|Pitching aplikasi ke PT NPG tanggal 27
-0|Revisi Monitoring nama tidak keluar
+0|Tugas S2 pak Sahnawi (PPT), dalam tahap review|
+1|Aplikasi Grand Dharmahusda Lagoon, dalam tahap review|
+1|Tugas S2 Pak sahnawi, kondisi market properti sebelum dan sesudah covid|
+1|Prototipe Marketing AI Chatbot GDL|
+1|Revisi Monitoring nama tidak keluar|
+0|Pitching aplikasi ke PT NPG|28-05-2025
+0|Koneksikan aplikasi glide dengan user marketing|26-05-2025
